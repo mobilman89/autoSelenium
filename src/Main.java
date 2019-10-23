@@ -7,7 +7,7 @@ public class Main {
     }
 
     // 2.Create An Array of integers from 1 to 5, Call an integer on array using index and print it.
-    int[] newArr = new int[]{1,2,3,4,5};
+    int[] newArr = {1,2,3,4,5};
     System.out.println(newArr[0]);
 
     // 3.Call index outside of the bound. Handle this exception printing “Outside of bound message.”
